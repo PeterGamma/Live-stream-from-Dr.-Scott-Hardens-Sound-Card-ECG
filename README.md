@@ -5,6 +5,6 @@
   
   https://swharden.com/wp/2019-03-15-sound-card-ecg-with-ad8232/
   
-  Signal transmission over audio jack to soundcard is more stable than over bluetooth. Scott has developed high quality open source data aquisition software for his sound Card ECG
+  Signal transmission over audio jack to soundcard is more stable than over bluetooth. Scott has developed high quality open source data aquisition software for his sound Card ECG, which is easy to use
   
   https://github.com/swharden/SoundCardECG
