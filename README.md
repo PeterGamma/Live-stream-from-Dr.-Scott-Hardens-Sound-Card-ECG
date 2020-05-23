@@ -5,7 +5,7 @@
   
   https://swharden.com/wp/2019-03-15-sound-card-ecg-with-ad8232/
   
-  Signal transmission over an audio cable to a soundcard is more stable than over bluetooth 3.0, with wireless transmission, it is always a risk there that the connection is lost.
+  Signal transmission over an audio cable to a soundcard is more stable than over bluetooth 3.0. With wireless transmission, it is always a risk there that the connection is lost.
   
   Scott has developed high quality open source data aquisition software for his sound Card ECG, which is easy to use, and could potentially be integrated in other data aquisition software and platforms
   
