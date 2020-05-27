@@ -10,3 +10,7 @@
   Scott has developed high quality open source data aquisition software for his sound Card ECG, which is easy to use, and could potentially be integrated in other data aquisition software and platforms (MIT licence).
   
   https://github.com/swharden/SoundCardECG
+
+For Matlab, there is a paper using the AD8232 interfacing to Matlab with an Arduino:
+
+https://www.researchgate.net/publication/336878101_Wearable_ECG_Recorder_with_MATLAB
