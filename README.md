@@ -11,6 +11,10 @@
   
   https://github.com/swharden/SoundCardECG
 
-For Matlab, there is a paper using the AD8232 interfacing to Matlab with an Arduino:
+Unfortunately, there is no Matlab interface for Scott s device. Audio signals can be processed in Matlab. There is a problem, when using multiple soundcards, for instance when using multiple sound cards for using multiple sound card data aquisition systems. But in Matlab, the problem of multiple soundcards is solved:
+
+https://www.mathworks.com/help/daq/multichannel-audio-input-and-output.html
+
+But this is still no ECG Matlab software. For Matlab, there is a paper using the AD8232 (wich is also used by Scott Harden) interfacing to Matlab with an Arduino:
 
 https://www.researchgate.net/publication/336878101_Wearable_ECG_Recorder_with_MATLAB
