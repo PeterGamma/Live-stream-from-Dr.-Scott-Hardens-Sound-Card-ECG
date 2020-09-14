@@ -18,3 +18,13 @@ https://www.mathworks.com/help/daq/multichannel-audio-input-and-output.html
 But this is still no ECG Matlab software. For Matlab, there is a paper from researcher from India using the AD8232 (wich is also used by Scott Harden) interfacing to Matlab with an Arduino. but they did no standard tests with the device for better user acceptance:
 
 https://www.researchgate.net/publication/336878101_Wearable_ECG_Recorder_with_MATLAB
+
+.
+.
+
+How can Scott Hardens Sound Card ECG circuit be printed on a circuit board? 
+
+.
+.
+
+https://www.eevblog.com/forum/testgear/how-can-scott-hardens-sound-card-ecg-circuit-be-printed-on-a-circuit-board/
