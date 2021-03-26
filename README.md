@@ -28,3 +28,14 @@ How can Scott Hardens Sound Card ECG circuit be printed on a circuit board?
 .
 
 https://www.eevblog.com/forum/testgear/how-can-scott-hardens-sound-card-ecg-circuit-be-printed-on-a-circuit-board/
+
+.
+.
+
+
+PC-based sound ECG recordings have been validated for short-term HRV analysis:
+
+.
+.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4982360/
